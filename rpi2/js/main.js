@@ -90,7 +90,7 @@ function setBgGreet() {
     var milliseconds=3600000-(minutes*60000+seconds*1000);
     bool==1;
     }else{
-      millisecondsc=3600000;
+      milliseconds=3600000;
     }
     if(hour >=6){
     document.body.style.backgroundImage ="url(" +  backgroundImages[ind] + ")";
